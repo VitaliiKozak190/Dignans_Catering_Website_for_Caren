@@ -439,7 +439,7 @@ nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  /* gap: 20px; */
+  gap: 20px;
 }
 
 .service-card {
@@ -639,9 +639,9 @@ nav {
 .testimonials-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 30px;
   justify-content: space-evenly;
-  padding: 30px;
+  padding: 30px 0;
 }
 
 .testimonial-card {
