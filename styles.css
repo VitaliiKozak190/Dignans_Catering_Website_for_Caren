@@ -940,7 +940,7 @@ nav {
   align-items: center;
   background-color: #eaf8e8; /* Light green background */
   padding: 20px;
-  /* text-align: center; */
+  text-align: center;
 }
 
 /* Deal Content */
@@ -1021,7 +1021,7 @@ nav {
 /* ==== Desktop Styles (1024px and up) ==== */
 @media (min-width: 1024px) {
   .special-deal {
-    padding: 80px 10%;
+    /* padding: 80px 10%; */
   }
 
   .deal-content {
